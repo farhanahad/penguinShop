@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Navbar */
+.nav-bg{
+    background: #FFF9F4;
+}
+.nav-bar{
+    position: sticky;
+    
+}
+.penguin-navbar {
+    margin-left: auto; 
+}
+.navbar-img img{
+    height: 40px;
+    padding-left: 20px;
+}
+.penguin-navbar li{
+   
+    padding: 0 30px;
+}
+.penguin-navbar li a{
+    color: black !important ;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+    
+}
+
+/* End of Navbar */
+
+/* Banner Section */
+
+.banner{
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.img-size{
+    width: 407px;
+    height: 407px;
+}
+
+.header-color{
+    color: #FA804C;
+}
+.banner-header{
+    font-size: 80px;
+    font-weight: 700;
+}
+.banner-text{
+    font-size: 16px;
+    font-weight: 400;
+}
+.button{ 
+        border-radius: 10px;
+        color: white;
+        text-decoration: none;
+        display: block;
+        background-color: #120fb4;
+        width: 170px;
+        height: 60px;
+        padding: 19px 27px;
+}
+.button:hover{
+    color: white;
+    background-color: #5c5ae6;
+}
+
+/* End of Banner Section */
+.header{
+    margin-bottom: 66px;
+}
+.shoe-img{
+    width: 311px;
+    height: 311px;
+    
+}
+.shoe-header{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(54, 57, 88, 1);
+}
+.shoe-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(62, 62, 62, 1);
+}
+.shoe-price{
+    color: rgba(250, 128, 76, 1);
+    
+}
+.button-price{ 
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    display: block;
+    background-color: #120fb4;
+    width: 170px;
+    height: 60px;
+    padding: 19px 27px;
+    margin-right: 19px;
+}
+.card{
+    margin-right: 35px;
+}
+
+
+
+
+.service{
+    margin-left: 20px;
+}
+
+.service-header{
+    color: rgba(54, 57, 88, 1);
+   
+    font-weight: 700;
+    font-size: 24px;
+}
+.service-p{
+    color: rgba(62, 62, 62, 1);
+   
+   
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.d-flex{
+    display: flex;
+}
